@@ -50,7 +50,7 @@
          while (n < 150);
   //5    
         let array1=[];
-        while (i < 10000) {
+        while (i=0; i < 10000) {
         i++;
         array1.push(i * i);
         console.log(array1);
